@@ -1,0 +1,33 @@
+{{> organisms-header }}
+
+<main>
+
+    {{#> molecules-layout-container }}
+
+        {{> molecules-page-header }}
+        
+        {{> organisms-photo-gallery }}
+
+        {{> organisms-product-info }}
+
+        {{> molecules-button buttonText="Add to Cart" }}
+
+        <hr />
+
+        {{#> organisms-section title="Reviews" description="37 dog lovers love this product" }}
+            <div class="fpo">Reviews go here</div>
+        {{/ organisms-section }}
+
+        {{#> organisms-section title="Training Tips" description="etc etc etc product" }}
+            <div class="fpo">Training tips go here go here</div>
+        {{/ organisms-section }}
+
+        {{#> organisms-section title="Related products" description="More stuff from around the site" }}
+            <div class="fpo">List of related products</div>
+        {{/ organisms-section }}
+
+    {{/ molecules-layout-container}}
+
+</main>
+
+{{> organisms-footer }}

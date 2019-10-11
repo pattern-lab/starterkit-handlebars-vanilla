@@ -1,0 +1,12 @@
+/*------------------------------------*\
+    #CARD LIST
+\*------------------------------------*/
+
+/**
+ * An unordered list of cards 
+ */
+.c-card-list {
+	display: grid;
+	grid-gap: $spacing;
+	grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}

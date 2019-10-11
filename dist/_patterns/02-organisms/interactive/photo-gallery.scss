@@ -1,0 +1,15 @@
+/*------------------------------------*\
+    #PHOTO GALLERY
+\*------------------------------------*/
+
+/**
+ * 1) Interactive gallery
+ */
+.c-photo-gallery {
+	background: #e7e7e7;
+	margin-bottom: $spacing-large;
+}
+
+.c-photo-gallery__list {
+	display: flex;
+}

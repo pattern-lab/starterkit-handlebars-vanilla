@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "name": "$color-utility-info",
+      "value": "#0192d0",
+      "comment": ""
+    },
+    {
+      "name": "$color-utility-error",
+      "value": "#b12a0b",
+      "comment": ""
+    },
+    {
+      "name": "$color-utility-success",
+      "value": "#03804d",
+      "comment": ""
+    },
+    {
+      "name": "$color-utility-warning",
+      "value": "#a59b15",
+      "comment": ""
+    }
+  ],
+  "meta": {
+    "description": "To add to these items, use Sass variables that start with <code>$color-utility-</code> in <code>./source/css/scss/abstracts/_variables.scss</code>"
+  }
+}
