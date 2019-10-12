@@ -21,5 +21,8 @@
 	"homepage": "https://github.com/pattern-lab/starterkit-handlebars-vanilla",
 	"publishConfig": {
 		"access": "public"
+	},
+	"scripts": {
+		"prepublish": "cd dist/css && npx node-sass style.scss style.css"
 	}
 }
