@@ -4,7 +4,7 @@ The Vanilla StarterKit for Handlebars is meant to be used as a demonstration of 
 
 ## Install
 
-[Installation Instructions](http://patternlab.io/docs/advanced-starterkits.html)
+[Installation Instructions](https://patternlab.io/docs/starterkits/)
 
 ## Edit Files
 
