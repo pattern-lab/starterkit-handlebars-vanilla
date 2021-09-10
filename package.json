@@ -23,7 +23,8 @@
 		"access": "public"
 	},
 	"scripts": {
-		"prepublish": "npm install node-sass && npm install node-sass-glob-importer && node-sass --importer node_modules/node-sass-glob-importer/dist/cli.js -o dist/css dist/css/style.scss"
+		"prepublish": "node-sass --importer node_modules/node-sass-glob-importer/dist/cli.js -o dist/css dist/css/style.scss",
+		"publish": "npx np"
 	},
 	"dependencies": {
 		"node-sass": "^6.0.1",
