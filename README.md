@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Pattern Lab is no longer actively maintained. All repositories, along with the rest of the @pattern-lab ecosystem on GitHub and npm, have been deprecated and archived. The code, releases, and history remain available so the work stays discoverable and forks can continue independently under the MIT license. No new releases, security patches, or issue triage will be performed.
+> [Read the full message](https://github.com/pattern-lab), and thank you.
+
 # Vanilla StarterKit for Handlebars
 
 The Vanilla StarterKit for Handlebars is meant to be used as a demonstration of a Handlebars-based project in Pattern Lab.
